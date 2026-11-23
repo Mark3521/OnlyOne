@@ -538,18 +538,10 @@
     <item
         component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}"
         drawable="com_google_android_apps_podcasts" />
-    <!-- Google Search -->
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
-        drawable="com_google_android_googlequicksearchbox" />
     <!-- Google Translate -->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="com_google_android_apps_translate" />
-    <!-- Google Voice Search -->
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
-        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.DspHotwordVoiceSearchActivity}"
         drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
