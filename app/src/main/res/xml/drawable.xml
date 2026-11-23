@@ -121,10 +121,7 @@
     <item drawable="com_kurogame_haru_aligames"/>
     <item drawable="wangdaye_com_geometricweather"/>
     <item drawable="org_geogebra_android_calculator_suite"/>
-    <item drawable="com_google_android_dialer"/>
     <item drawable="com_google_android_googlecamera"/>
-    <item drawable="com_google_android_messenger"/>
-    <item drawable="com_google_android_contacts"/>
     <item drawable="com_google_android_inputmethod_latin"/><item drawable="com_google_earth"/>
     <item drawable="com_google_android_play_games"/>
     <item drawable="com_google_ar_lens"/>
@@ -190,19 +187,6 @@
     <item drawable="com_sankuai_meituan_takeoutnew"/>
     <item drawable="com_lingan_seeyou"/>
     <item drawable="com_azure_authenticator"/>
-    <item drawable="com_microsoft_emmx"/>
-    <item drawable="com_microsoft_office_excel"/>
-    <item drawable="com_microsoft_office_officelens"/>
-    <item drawable="com_microsoft_math"/>
-    <item drawable="com_microsoft_office_officehub"/>
-    <item drawable="com_microsoft_office_officehubrow"/>
-    <item drawable="com_microsoft_skydrive"/>
-    <item drawable="com_microsoft_office_onenote"/>
-    <item drawable="com_microsoft_office_outlook"/>
-    <item drawable="com_microsoft_office_powerpoint"/>
-    <item drawable="com_microsoft_rdc_androidx"/>
-    <item drawable="com_microsoft_todos"/>
-    <item drawable="com_microsoft_appmanager"/>
     <item drawable="com_mihoyo_hyperion"/>
     <item drawable="cn_litiaotiao_app"/>
     <item drawable="com_mjxq_app"/>
@@ -258,7 +242,6 @@
     <item drawable="ic_s_planner"/>
     <item drawable="ic_camera"/>
     <item drawable="com_samsung_android_app_galaxyraw"/>
-    <item drawable="ic_contact"/>
     <item drawable="com_diotek_sec_lookup_dictionary"/>
     <item drawable="com_samsung_android_app_edgetouch"/>
     <item drawable="ic_email"/>
@@ -279,7 +262,6 @@
     <item drawable="com_samsung_android_app_simplesharing"/>
     <item drawable="com_samsung_android_mdx"/>
     <item drawable="ic_galaxycare"/>
-    <item drawable="ic_message"/>
     <item drawable="ic_music"/>
     <item drawable="com_banqu_samsung_music"/>
     <item drawable="com_samsung_android_app_goodcatch"/>
@@ -289,7 +271,6 @@
     <item drawable="ic_samsungpay"/>
     <item drawable="com_samsung_android_pentastic"/>
     <item drawable="com_sec_penup"/>
-    <item drawable="ic_phone"/>
     <item drawable="com_samsung_android_ruler"/>
     <item drawable="com_samsung_android_app_sharelive"/>
     <item drawable="com_mci_smagazine"/>

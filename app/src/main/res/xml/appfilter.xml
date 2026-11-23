@@ -482,9 +482,6 @@
         component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
         drawable="com_google_android_googlecamera" />
     <!-- Google Contacts -->
-    <item
-        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="com_google_android_contacts" />
     <!-- Google Mail -->
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
@@ -494,9 +491,6 @@
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
         drawable="com_google_android_apps_photos" />
     <!-- Google Messenger -->
-    <item
-        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
-        drawable="com_google_android_messenger" />
     <!-- Google News -->
     <item
         component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
@@ -506,9 +500,6 @@
         component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}"
         drawable="com_google_android_apps_subscriptions_red"/>
     <!-- Google Phone -->
-    <item
-        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="com_google_android_dialer" />
     <!-- Google Podcasts -->
     <item
         component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}"
@@ -720,71 +711,17 @@
         component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}"
         drawable="com_azure_authenticator" />
     <!-- Microsoft Edge -->
-    <item
-        component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}"
-        drawable="com_microsoft_emmx" />
     <!-- Microsoft Excel -->
-    <item
-        component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}"
-        drawable="com_microsoft_office_excel" />
-    <item
-        component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}"
-        drawable="com_microsoft_office_excel" />
     <!-- Microsoft Lens -->
-    <item
-        component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}"
-        drawable="com_microsoft_office_officelens" />
     <!-- Microsoft Math -->
-    <item
-        component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}"
-        drawable="com_microsoft_math" />
     <!-- Microsoft Office -->
-    <item
-        component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
-        drawable="com_microsoft_office_officehub" />
-    <item
-        component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
-        drawable="com_microsoft_office_officehubrow" />
     <!-- Microsoft Onedrive -->
-    <item
-        component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
-        drawable="com_microsoft_skydrive" />
     <!-- Microsoft Onenote -->
-    <item
-        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
-        drawable="com_microsoft_office_onenote" />
     <!-- Microsoft Outlook -->
-    <item
-        component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}"
-        drawable="com_microsoft_office_outlook" />
     <!-- Microsoft Powerpoint -->
-    <item
-        component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}"
-        drawable="com_microsoft_office_powerpoint" />
     <!-- Microsoft Remote Desktop -->
-    <item
-        component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity}"
-        drawable="com_microsoft_rdc_androidx"/>
     <!-- Microsoft To Do -->
-    <item
-        component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}"
-        drawable="com_microsoft_todos" />
     <!-- Microsoft Your Phone -->
-    <item
-        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.MainApplication}"
-        drawable="com_microsoft_appmanager" />
-    <item
-        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpSettingActivity}"
-        drawable="com_microsoft_appmanager" />
-    <item
-        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}"
-        drawable="com_microsoft_appmanager" />
-    <item
-        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}"
-        drawable="com_microsoft_appmanager" />
-    <item
-        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.fre.ui.FreActivity}"
-        drawable="com_microsoft_appmanager" />
     <!-- Mihoyo Miyoushe -->
     <item
         component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
@@ -979,48 +916,6 @@
         component="ComponentInfo{com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw}"
         drawable="com_samsung_android_app_galaxyraw"/>
     <!-- Samsung Contact -->
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.freeme.contacts.FreemePeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.gionee.contacts.activities.BaseActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.alias.ContactsActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.allContactsActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.ContactsAcitivy}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.PeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.journeyui.contacts.ui.main.ContactMainActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
-        drawable="ic_contact" />
-    <item
-        component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="ic_contact" />
     <!-- Samsung Dictionary -->
     <item
         component="ComponentInfo{com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity}"
@@ -1177,33 +1072,6 @@
         component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity}"
         drawable="ic_galaxycare"/>
     <!-- Samsung Message -->
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.android.mms/com.freeme.mms.FreemeConversationList}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.android.messaging/com.android.mms.ui.ConversationList}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.tab.MmsMainActivity}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}"
-        drawable="ic_message" />
-    <item
-        component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}"
-        drawable="ic_message" />
     <!-- Samsung Music -->
     <item
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}"
@@ -1259,21 +1127,6 @@
         component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}"
         drawable="com_sec_penup"/>
     <!-- Samsung Phone -->
-    <item
-        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
-        drawable="ic_phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}"
-        drawable="ic_phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
-        drawable="ic_phone" />
-    <item
-        component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
-        drawable="ic_phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}"
-        drawable="ic_phone" />
     <!-- Samsung Quick Measure -->
     <item
         component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}"
