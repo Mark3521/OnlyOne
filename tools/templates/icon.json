@@ -1,0 +1,6 @@
+{
+  "name": "Example App",
+  "package": "com.example.app",
+  "activities": [".MainActivity"],
+  "drawable": "example_app"
+}
