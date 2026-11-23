@@ -714,13 +714,6 @@
     <item
         component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.SeeyouActivity}"
         drawable="com_lingan_seeyou"/>
-    <!-- Microsoft Authenticator -->
-    <item
-        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}"
-        drawable="com_azure_authenticator" />
-    <item
-        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}"
-        drawable="com_azure_authenticator" />
     <!-- Microsoft Edge -->
     <!-- Microsoft Excel -->
     <!-- Microsoft Lens -->
