@@ -122,7 +122,6 @@
     <item drawable="org_geogebra_android_calculator_suite"/>
     <item drawable="com_google_android_apps_googleassistant"/>
     <item drawable="com_google_android_inputmethod_latin"/>
-    <item drawable="com_google_android_calendar"/>
     <item drawable="com_android_chrome"/>
     <item drawable="com_google_earth"/>
     <item drawable="com_google_android_play_games"/>
@@ -257,7 +256,6 @@
     <item drawable="ic_s_planner"/>
     <item drawable="ic_camera"/>
     <item drawable="com_samsung_android_app_galaxyraw"/>
-    <item drawable="ic_clock"/>
     <item drawable="ic_contact"/>
     <item drawable="com_diotek_sec_lookup_dictionary"/>
     <item drawable="com_samsung_android_app_edgetouch"/>
@@ -415,7 +413,6 @@
 
     <!-- Dynamic -->
     <category title="Dynamic" />
-    <item drawable="sec_clockpackage_dynamic"/>
     <item drawable="sec_calendar_1"/>
     <item drawable="sec_calendar_2"/>
     <item drawable="sec_calendar_3"/>
@@ -447,37 +444,6 @@
     <item drawable="sec_calendar_29"/>
     <item drawable="sec_calendar_30"/>
     <item drawable="sec_calendar_31"/>
-    <item drawable="google_calendar_1"/>
-    <item drawable="google_calendar_2"/>
-    <item drawable="google_calendar_3"/>
-    <item drawable="google_calendar_4"/>
-    <item drawable="google_calendar_5"/>
-    <item drawable="google_calendar_6"/>
-    <item drawable="google_calendar_7"/>
-    <item drawable="google_calendar_8"/>
-    <item drawable="google_calendar_9"/>
-    <item drawable="google_calendar_10"/>
-    <item drawable="google_calendar_11"/>
-    <item drawable="google_calendar_12"/>
-    <item drawable="google_calendar_13"/>
-    <item drawable="google_calendar_14"/>
-    <item drawable="google_calendar_15"/>
-    <item drawable="google_calendar_16"/>
-    <item drawable="google_calendar_17"/>
-    <item drawable="google_calendar_18"/>
-    <item drawable="google_calendar_19"/>
-    <item drawable="google_calendar_20"/>
-    <item drawable="google_calendar_21"/>
-    <item drawable="google_calendar_22"/>
-    <item drawable="google_calendar_23"/>
-    <item drawable="google_calendar_24"/>
-    <item drawable="google_calendar_25"/>
-    <item drawable="google_calendar_26"/>
-    <item drawable="google_calendar_27"/>
-    <item drawable="google_calendar_28"/>
-    <item drawable="google_calendar_29"/>
-    <item drawable="google_calendar_30"/>
-    <item drawable="google_calendar_31"/>
     <item drawable="com_adb_useroperation"/>
     <item drawable="com_huya_kiwi"/>
 </resources>

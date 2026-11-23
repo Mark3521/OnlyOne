@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dynamic-clock
-        defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30"
-        drawable="sec_clockpackage_dynamic"
-        hourLayerIndex="1"
-        minuteLayerIndex="2"
-        secondLayerIndex="3" />
-    <calendar
-        component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
-        prefix="sec_calendar_" />
-    <calendar
-        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="sec_calendar_" />
-    <calendar
-        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
-        prefix="sec_calendar_" />
-    <calendar
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="google_calendar_" />
-    <calendar
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}"
-        prefix="google_calendar_" />
-    <calendar
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
-        prefix="google_calendar_" />
     <!-- Agricultural Bank of China -->
     <item
         component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}"
@@ -495,16 +469,6 @@
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
         drawable="com_google_android_inputmethod_latin" />
-    <!-- Google Calendar -->
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="com_google_android_calendar" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="com_google_android_calendar" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}"
-        drawable="com_google_android_calendar" />
     <!-- Google Chrome -->
     <item
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
@@ -1007,19 +971,6 @@
     <item
         component="ComponentInfo{com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw}"
         drawable="com_samsung_android_app_galaxyraw"/>
-    <!-- Samsung Clock -->
-    <item
-        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}"
-        drawable="sec_clockpackage_dynamic" />
-    <item
-        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity}"
-        drawable="sec_clockpackage_dynamic" />
-    <item
-        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
-        drawable="sec_clockpackage_dynamic" />
-    <item
-        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}"
-        drawable="sec_clockpackage_dynamic" />
     <!-- Samsung Contact -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
