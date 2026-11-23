@@ -525,10 +525,6 @@
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="com_google_android_gm" />
-    <!-- Google Maps -->
-    <item
-        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
-        drawable="com_google_android_apps_maps" />
     <!-- Google Messenger -->
     <!-- Google News -->
     <item
@@ -710,10 +706,6 @@
     <item
         component="ComponentInfo{com.nine.NovelReader/com.nine.NovelReader.UI.Activity.MainHomeActivity.SplashActivity}"
         drawable="com_nine_novelreader"/>
-    <!-- LibChecker -->
-    <item
-        component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}"
-        drawable="com_absinthe_libchecker"/>
     <!-- Lycan -->
     <item
         component="ComponentInfo{com.splashtop.streamer.addon.knox/com.ccswe.appmanager.activities.StartupActivity}"
@@ -859,10 +851,6 @@
     <item
         component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}"
         drawable="fm_moon_app"/>
-    <!-- MT Manager -->
-    <item
-        component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}"
-        drawable="bin_mt_plus"/>
     <!-- Music Tag -->
     <item
         component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}"
@@ -1545,10 +1533,6 @@
     <item
         component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
         drawable="com_spotify_music" />
-    <!-- Steam -->
-    <item
-        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
-        drawable="com_valvesoftware_android_steam_community"/>
     <!-- Telegram -->
     <item
         component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}"

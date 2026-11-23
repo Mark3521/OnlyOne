@@ -21,7 +21,6 @@
     <item drawable="com_autonavi_minimap"/>
     <item drawable="com_xuebaeasy_anpei"/>
     <item drawable="com_absinthe_anywhere_"/>
-    <item drawable="com_apple_android_music"/>
     <item drawable="com_aurora_store"/>
     <!-- B -->
     <category title="B" />
@@ -122,26 +121,17 @@
     <item drawable="wangdaye_com_geometricweather"/>
     <item drawable="org_geogebra_android_calculator_suite"/>
     <item drawable="com_google_android_apps_googleassistant"/>
-    <item drawable="com_google_android_apps_authenticator2"/>
     <item drawable="com_google_android_inputmethod_latin"/>
-    <item drawable="com_google_android_calculator"/>
     <item drawable="com_google_android_calendar"/>
     <item drawable="com_android_chrome"/>
-    <item drawable="com_google_android_contacts"/>
-    <item drawable="com_google_android_apps_docs"/>
     <item drawable="com_google_earth"/>
     <item drawable="com_google_android_play_games"/>
     <item drawable="com_google_ar_lens"/>
     <item drawable="com_google_android_gm"/>
-    <item drawable="com_google_android_apps_maps"/>
-    <item drawable="com_google_android_apps_messaging"/>
     <item drawable="com_google_android_apps_magazines"/>
     <item drawable="com_google_android_apps_subscriptions_red"/>
-    <item drawable="com_google_android_apps_photos"/>
-    <item drawable="ic_playstore"/>
     <item drawable="com_google_android_apps_podcasts"/>
     <item drawable="com_google_android_googlequicksearchbox"/>
-    <item drawable="com_niksoftware_snapseed"/>
     <item drawable="com_google_android_apps_translate"/>
     <item drawable="com_google_android_googlequicksearchbox_voicesearchactivity"/>
     <item drawable="com_google_android_wearable_app"/>
@@ -189,7 +179,6 @@
     <item drawable="io_legado_play_release"/>
     <item drawable="com_lptiyu_tanke"/>
     <item drawable="com_nine_novelreader"/>
-    <item drawable="com_absinthe_libchecker"/>
     <item drawable="com_splashtop_streamer_addon_knox"/>
     <!-- M -->
     <category title="M" />
@@ -200,7 +189,6 @@
     <item drawable="com_sankuai_meituan"/>
     <item drawable="com_sankuai_meituan_takeoutnew"/>
     <item drawable="com_lingan_seeyou"/>
-    <item drawable="com_instagram_android"/>
     <item drawable="com_azure_authenticator"/>
     <item drawable="com_microsoft_emmx"/>
     <item drawable="com_microsoft_office_excel"/>
@@ -214,7 +202,6 @@
     <item drawable="com_microsoft_office_powerpoint"/>
     <item drawable="com_microsoft_rdc_androidx"/>
     <item drawable="com_microsoft_todos"/>
-    <item drawable="com_microsoft_office_word"/>
     <item drawable="com_microsoft_appmanager"/>
     <item drawable="com_mihoyo_hyperion"/>
     <item drawable="cn_litiaotiao_app"/>
@@ -223,7 +210,6 @@
     <item drawable="com_flyersoft_moonreader"/>
     <item drawable="com_flyersoft_moonreaderp"/>
     <item drawable="fm_moon_app"/>
-    <item drawable="bin_mt_plus"/>
     <item drawable="com_xjcheng_musictageditor"/>
     <item drawable="com_mxtech_videoplayer_pro"/>
     <item drawable="myradio_radio_fmradio_liveradio_radiostation"/>
@@ -315,7 +301,6 @@
     <item drawable="com_samsung_android_scloud"/>
     <item drawable="com_samsung_android_app_searchwidget"/>
     <item drawable="com_samsung_knox_securefolder"/>
-    <item drawable="ic_settings"/>
     <item drawable="com_jv_samsungeshop"/>
     <item drawable="com_sec_android_easymover"/>
     <item drawable="ic_smartmanager"/>
@@ -350,7 +335,6 @@
     <item drawable="pl_solidexplorer2"/>
     <item drawable="com_sohu_inputmethod_sogou"/>
     <item drawable="com_spotify_music"/>
-    <item drawable="com_valvesoftware_android_steam_community"/>
     <!-- T -->
     <category title="T" />
     <item drawable="org_telegram_messenger"/>
@@ -367,7 +351,6 @@
     <item drawable="com_tencent_mobileqq"/>
     <item drawable="com_tencent_tim"/>
     <item drawable="com_tencent_qqlive"/>
-    <item drawable="com_tencent_mm"/>
     <item drawable="com_tencent_mn"/>
     <item drawable="com_tencent_weread"/>
     <item drawable="com_tencent_wework"/>
