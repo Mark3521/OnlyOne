@@ -1851,4 +1851,8 @@
     <item
         component="ComponentInfo{com.onlyone.onlyonestarter/com.onlyone.onlyonestarter.MainActivity}"
         drawable="com_onlyone_onlyonestarter"/>
+    <!-- Aima Mobility -->
+    <item
+        component="ComponentInfo{com.adb.useroperation/io.flutter.plugins.WXEntryActivity}"
+        drawable="com_adb_useroperation"/>
 </resources>

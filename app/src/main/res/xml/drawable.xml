@@ -480,4 +480,5 @@
     <item drawable="google_calendar_29"/>
     <item drawable="google_calendar_30"/>
     <item drawable="google_calendar_31"/>
+    <item drawable="com_adb_useroperation"/>
 </resources>
