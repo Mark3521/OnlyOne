@@ -589,8 +589,6 @@
     <item
         component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
         drawable="com_qiyi_video"/>
-    <!-- IT Home -->
-    <item
     <!-- JD Finance -->
     <item
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
