@@ -477,6 +477,10 @@
     <item
         component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
         drawable="com_google_ar_lens"/>
+    <!-- Google Camera -->
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="com_google_android_googlecamera" />
     <!-- Google Contacts -->
     <item
         component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
