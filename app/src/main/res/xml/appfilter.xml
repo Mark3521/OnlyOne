@@ -485,11 +485,18 @@
     <item
         component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
         drawable="com_google_ar_lens"/>
+    <!-- Google Contacts -->
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="com_google_android_contacts" />
     <!-- Google Mail -->
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="com_google_android_gm" />
     <!-- Google Messenger -->
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="com_google_android_messenger" />
     <!-- Google News -->
     <item
         component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
@@ -498,6 +505,10 @@
     <item
         component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}"
         drawable="com_google_android_apps_subscriptions_red"/>
+    <!-- Google Phone -->
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="com_google_android_dialer" />
     <!-- Google Podcasts -->
     <item
         component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}"
