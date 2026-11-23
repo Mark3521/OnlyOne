@@ -236,7 +236,6 @@
     <item drawable="eu_thedarken_sdm"/>
     <item drawable="fm_qingting_customize_samsung"/>
     <item drawable="com_banqu_samsung_music"/>
-    <item drawable="com_samsung_android_wonderland_wallpaper"/>
     <item drawable="com_caij_see"/>
     <item drawable="ceui_lisa_pixiv"/>
     <item drawable="moe_shizuku_privileged_api"/>
@@ -334,37 +333,6 @@
 
     <!-- Dynamic -->
     <category title="Dynamic" />
-    <item drawable="sec_calendar_1"/>
-    <item drawable="sec_calendar_2"/>
-    <item drawable="sec_calendar_3"/>
-    <item drawable="sec_calendar_4"/>
-    <item drawable="sec_calendar_5"/>
-    <item drawable="sec_calendar_6"/>
-    <item drawable="sec_calendar_7"/>
-    <item drawable="sec_calendar_8"/>
-    <item drawable="sec_calendar_9"/>
-    <item drawable="sec_calendar_10"/>
-    <item drawable="sec_calendar_11"/>
-    <item drawable="sec_calendar_12"/>
-    <item drawable="sec_calendar_13"/>
-    <item drawable="sec_calendar_14"/>
-    <item drawable="sec_calendar_15"/>
-    <item drawable="sec_calendar_16"/>
-    <item drawable="sec_calendar_17"/>
-    <item drawable="sec_calendar_18"/>
-    <item drawable="sec_calendar_19"/>
-    <item drawable="sec_calendar_20"/>
-    <item drawable="sec_calendar_21"/>
-    <item drawable="sec_calendar_22"/>
-    <item drawable="sec_calendar_23"/>
-    <item drawable="sec_calendar_24"/>
-    <item drawable="sec_calendar_25"/>
-    <item drawable="sec_calendar_26"/>
-    <item drawable="sec_calendar_27"/>
-    <item drawable="sec_calendar_28"/>
-    <item drawable="sec_calendar_29"/>
-    <item drawable="sec_calendar_30"/>
-    <item drawable="sec_calendar_31"/>
     <item drawable="com_adb_useroperation"/>
     <item drawable="com_huya_kiwi"/>
 </resources>

@@ -881,7 +881,6 @@
         drawable="eu_thedarken_sdm"/>
     <item
         component="ComponentInfo{com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity}"
-        drawable="com_samsung_android_wonderland_wallpaper"/>
     <!-- See -->
     <item
         component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}"
