@@ -710,6 +710,11 @@
     <item
         component="ComponentInfo{com.splashtop.streamer.addon.knox/com.ccswe.appmanager.activities.StartupActivity}"
         drawable="com_splashtop_streamer_addon_knox"/>
+
+    <!-- Longfor -->
+    <item
+        component="ComponentInfo{com.longfor.supera/com.longfor.supera.splash.SplashActivity}"
+        drawable="com_longfor_supera"/>
     <!-- Magical Cleaner -->
     <item
         component="ComponentInfo{com.magicalstory.cleaner/com.magicalstory.cleaner.main.MainActivity}"
