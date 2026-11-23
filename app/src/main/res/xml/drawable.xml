@@ -132,6 +132,7 @@
     <item drawable="com_google_ar_lens"/>
     <item drawable="com_google_android_gm"/>
     <item drawable="com_google_android_apps_magazines"/>
+    <item drawable="com_google_android_apps_photos"/>
     <item drawable="com_google_android_apps_subscriptions_red"/>
     <item drawable="com_google_android_apps_podcasts"/>
     <item drawable="com_google_android_apps_translate"/>
