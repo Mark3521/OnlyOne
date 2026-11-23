@@ -482,6 +482,17 @@
         component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
         drawable="com_google_android_googlecamera" />
     <!-- Google Contacts -->
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="com_google_android_contacts" />
+    <!-- Google Messenger -->
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="com_google_android_messenger" />
+    <!-- Google Phone -->
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="com_google_android_dialer" />
     <!-- Google Mail -->
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
