@@ -329,7 +329,6 @@
     <item drawable="com_android_bips"/>
     <item drawable="com_google_android_gms"/>
     <item drawable="com_google_android_tts"/>
-    <item drawable="com_sec_android_app_launcher"/>
 
     <!-- Dynamic -->
     <category title="Dynamic" />
