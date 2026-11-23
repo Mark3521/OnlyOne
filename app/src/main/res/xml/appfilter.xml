@@ -1612,12 +1612,7 @@
     <!-- Tencent Video -->
     <item
         component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
-        drawable="com_tencent_qqlive"/>
-    <!-- Tencent Wechat Clone -->
-    <item
-        component="ComponentInfo{com.tencent.mn/com.tencent.mm.ui.LauncherUI}"
-        drawable="com_tencent_mn" />
-    <!-- Tencent Weread -->
+        drawable="com_tencent_qqlive"/><!-- Tencent Weread -->
     <item
         component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}"
         drawable="com_tencent_weread"/>

@@ -350,9 +350,7 @@
     <item drawable="com_tencent_qidian"/>
     <item drawable="com_tencent_mobileqq"/>
     <item drawable="com_tencent_tim"/>
-    <item drawable="com_tencent_qqlive"/>
-    <item drawable="com_tencent_mn"/>
-    <item drawable="com_tencent_weread"/>
+    <item drawable="com_tencent_qqlive"/><item drawable="com_tencent_weread"/>
     <item drawable="com_tencent_wework"/>
     <item drawable="com_tencent_gamehelper_smoba"/>
     <item drawable="github_tornaco_android_thanos"/>
