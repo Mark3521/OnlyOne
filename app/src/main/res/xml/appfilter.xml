@@ -459,13 +459,6 @@
     <item
         component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}"
         drawable="org_geogebra_android_calculator_suite"/>
-    <!-- Google Assistant -->
-    <item
-        component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}"
-        drawable="com_google_android_apps_googleassistant" />
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}"
-        drawable="com_google_android_apps_googleassistant" />
     <!-- Google Board -->
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}"
