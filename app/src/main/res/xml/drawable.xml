@@ -135,9 +135,7 @@
     <item drawable="com_google_android_apps_podcasts"/>
     <item drawable="com_google_android_apps_translate"/>
     <item drawable="com_google_android_wearable_app"/>
-    <item drawable="com_google_android_wearable_app_cn"/>
-    <item drawable="com_google_android_youtube"/>
-    <!-- H -->
+    <item drawable="com_google_android_wearable_app_cn"/><!-- H -->
     <category title="H" />
     <item drawable="com_babycloud_hanju"/>
     <item drawable="project_vivid_hex_bodhi"/>

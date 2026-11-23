@@ -528,12 +528,7 @@
         drawable="com_google_android_wearable_app" />
     <item
         component="ComponentInfo{com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity}"
-        drawable="com_google_android_wearable_app_cn" />
-    <!-- Google Youtube -->
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
-        drawable="com_google_android_youtube" />
-    <!-- Hanju TV -->
+        drawable="com_google_android_wearable_app_cn" /><!-- Hanju TV -->
     <item
         component="ComponentInfo{com.babycloud.hanju/com.babycloud.hanju.ui.activity.WelcomeActivity}"
         drawable="com_babycloud_hanju"/>
