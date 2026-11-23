@@ -42,7 +42,23 @@ jobs:
         with:
           gradle-version: "7.2"
 
+      - name: Prepare release signing key
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          if [ -n "$ANDROID_KEYSTORE_BASE64" ]; then
+            echo "$ANDROID_KEYSTORE_BASE64" | base64 --decode > "$RUNNER_TEMP/onlyone-release.p12"
+            echo "ANDROID_KEYSTORE_PATH=$RUNNER_TEMP/onlyone-release.p12" >> "$GITHUB_ENV"
+            echo "Release signing key prepared."
+          else
+            echo "Signing secret not configured; release APK will be unsigned."
+          fi
+
       - name: Build debug and release APKs
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: gradle --no-daemon assembleDebug assembleRelease
 
       - name: Upload APK artifacts
