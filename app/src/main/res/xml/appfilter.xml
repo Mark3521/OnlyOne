@@ -469,11 +469,7 @@
     <item
         component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}"
         drawable="com_google_earth" />
-    <!-- Google Play Games -->
-    <item
-        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
-        drawable="com_google_android_play_games" />
-    <!-- Google Lens -->
+<!-- Google Lens -->
     <item
         component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
         drawable="com_google_ar_lens"/>

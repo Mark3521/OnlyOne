@@ -126,8 +126,7 @@
     <item drawable="com_google_android_dialer"/>
     <item drawable="com_google_android_messenger"/>
     <item drawable="com_google_android_inputmethod_latin"/><item drawable="com_google_earth"/>
-    <item drawable="com_google_android_play_games"/>
-    <item drawable="com_google_ar_lens"/>
+<item drawable="com_google_ar_lens"/>
     <item drawable="com_google_android_gm"/>
     <item drawable="com_google_android_apps_magazines"/>
     <item drawable="com_google_android_apps_photos"/>
