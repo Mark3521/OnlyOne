@@ -465,7 +465,12 @@
         drawable="com_google_android_inputmethod_latin" />
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
-        drawable="com_google_android_inputmethod_latin" /><!-- Google Earth -->
+        drawable="com_google_android_inputmethod_latin" />
+    <!-- Google Chrome -->
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="com_android_chrome" />
+    <!-- Google Earth -->
     <item
         component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}"
         drawable="com_google_earth" />
