@@ -592,8 +592,6 @@
         drawable="com_qiyi_video"/>
     <!-- IT Home -->
     <item
-        component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.ui.MainActivity}"
-        drawable="com_ruanmei_ithome"/>
     <!-- JD Finance -->
     <item
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
