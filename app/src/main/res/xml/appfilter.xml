@@ -542,12 +542,6 @@
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="com_google_android_apps_translate" />
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.DspHotwordVoiceSearchActivity}"
-        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.RecordedVoiceSearchActivity}"
-        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
     <!-- Google WearOS -->
     <item
         component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity}"
