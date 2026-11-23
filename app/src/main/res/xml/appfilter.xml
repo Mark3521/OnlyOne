@@ -77,6 +77,10 @@
     <item
         component="ComponentInfo{com.xuebaeasy.anpei/com.xuebaeasy.anpei.ui.activity.SplashActivity}"
         drawable="com_xuebaeasy_anpei"/>
+    <!-- Apple Music -->
+    <item
+        component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}"
+        drawable="com_apple_android_music"/>
     <!-- Anywhere -->
     <item
         component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}"
