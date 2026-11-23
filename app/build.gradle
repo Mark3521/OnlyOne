@@ -23,8 +23,8 @@ android {
         applicationId "com.android.iconpack.onlyone"
         minSdk 30
         targetSdk 31
-        versionCode 1036
-        versionName '3.2.4'
+        versionCode 1037
+        versionName '3.2.5'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
