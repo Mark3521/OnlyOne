@@ -107,10 +107,6 @@
     <item
         component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}"
         drawable="com_absinthe_anywhere_"/>
-    <!-- Apple Music -->
-    <item
-        component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}"
-        drawable="com_apple_android_music"/>
     <!-- Aurora Store -->
     <item
         component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
@@ -492,10 +488,6 @@
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}"
         drawable="com_google_android_apps_googleassistant" />
-    <!-- Google Authenticator -->
-    <item
-        component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
-        drawable="com_google_android_apps_authenticator2"/>
     <!-- Google Board -->
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}"
@@ -503,10 +495,6 @@
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
         drawable="com_google_android_inputmethod_latin" />
-    <!-- Google Calculator -->
-    <item
-        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
-        drawable="com_google_android_calculator" />
     <!-- Google Calendar -->
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
@@ -521,14 +509,6 @@
     <item
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
         drawable="com_android_chrome" />
-    <!-- Google Contacts -->
-    <item
-        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="com_google_android_contacts" />
-    <!-- Google Drive -->
-    <item
-        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="com_google_android_apps_docs" />
     <!-- Google Earth -->
     <item
         component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}"
@@ -550,9 +530,6 @@
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
         drawable="com_google_android_apps_maps" />
     <!-- Google Messenger -->
-    <item
-        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
-        drawable="com_google_android_apps_messaging" />
     <!-- Google News -->
     <item
         component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
@@ -561,20 +538,6 @@
     <item
         component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}"
         drawable="com_google_android_apps_subscriptions_red"/>
-    <!-- Google Photos -->
-    <item
-        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
-        drawable="com_google_android_apps_photos" />
-    <item
-        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}"
-        drawable="com_google_android_apps_photos" />
-    <item
-        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}"
-        drawable="com_google_android_apps_photos" />
-    <!-- Google Play Store -->
-    <item
-        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
-        drawable="ic_playstore" />
     <!-- Google Podcasts -->
     <item
         component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}"
@@ -583,10 +546,6 @@
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
         drawable="com_google_android_googlequicksearchbox" />
-    <!-- Google Snapseed -->
-    <item
-        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
-        drawable="com_niksoftware_snapseed" />
     <!-- Google Translate -->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
@@ -799,10 +758,6 @@
     <item
         component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.SeeyouActivity}"
         drawable="com_lingan_seeyou"/>
-    <!-- Meta Instagram -->
-    <item
-        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
-        drawable="com_instagram_android" />
     <!-- Microsoft Authenticator -->
     <item
         component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}"
@@ -860,13 +815,6 @@
     <item
         component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}"
         drawable="com_microsoft_todos" />
-    <!-- Microsoft Word -->
-    <item
-        component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"
-        drawable="com_microsoft_office_word" />
-    <item
-        component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.word.WordActivity}"
-        drawable="com_microsoft_office_word" />
     <!-- Microsoft Your Phone -->
     <item
         component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.MainApplication}"
@@ -1438,16 +1386,6 @@
     <item
         component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity}"
         drawable="com_samsung_knox_securefolder" />
-    <!-- Samsung Settings -->
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="ic_settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}"
-        drawable="ic_settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}"
-        drawable="ic_settings" />
     <!-- Samsung Shop -->
     <item
         component="ComponentInfo{com.jv.samsungeshop/com.jv.samsungeshop.ui.startup.SplashActivity}"
@@ -1691,10 +1629,6 @@
     <item
         component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
         drawable="com_tencent_qqlive"/>
-    <!-- Tencent Wechat -->
-    <item
-        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
-        drawable="com_tencent_mm" />
     <!-- Tencent Wechat Clone -->
     <item
         component="ComponentInfo{com.tencent.mn/com.tencent.mm.ui.LauncherUI}"
