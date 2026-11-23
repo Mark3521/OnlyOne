@@ -108,6 +108,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           name: OnlyOne ${{ github.ref_name }}
-          generate_release_notes: true
+          generate_release_notes: false
+          body: |
+            删去部分过时图标
           files: ${{ env.APK_PATH }}
           fail_on_unmatched_files: true
