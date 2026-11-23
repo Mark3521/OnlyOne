@@ -2,8 +2,22 @@ plugins {
     id 'com.android.application'
 }
 
+def releaseKeystorePath = System.getenv("ANDROID_KEYSTORE_PATH")
+
 android {
     compileSdk 31
+
+    signingConfigs {
+        release {
+            if (releaseKeystorePath) {
+                storeFile file(releaseKeystorePath)
+                storeType "pkcs12"
+                storePassword System.getenv("ANDROID_KEYSTORE_PASSWORD")
+                keyAlias System.getenv("ANDROID_KEY_ALIAS")
+                keyPassword System.getenv("ANDROID_KEY_PASSWORD")
+            }
+        }
+    }
 
     defaultConfig {
         applicationId "com.android.iconpack.onlyone"
@@ -19,6 +33,9 @@ android {
         release {
             shrinkResources false
             minifyEnabled false
+            if (releaseKeystorePath) {
+                signingConfig signingConfigs.release
+            }
         }
     }
     compileOptions {
