@@ -937,6 +937,9 @@
     <item
         component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
         drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.weico.international/com.weico.international.activity.appicon_white}"
+        drawable="com_weico_international" />
     <!-- Sketchbook -->
     <item
         component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}"
